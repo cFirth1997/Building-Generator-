@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buliding_Simulator", "Buliding_Simulator\Buliding_Simulator.csproj", "{7E7658B8-FDE6-4A8B-BFF0-C9829C971A7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug32|Any CPU = Debug32|Any CPU
+		Debug64|Any CPU = Debug64|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E7658B8-FDE6-4A8B-BFF0-C9829C971A7B}.Debug32|Any CPU.ActiveCfg = Debug32|Any CPU
+		{7E7658B8-FDE6-4A8B-BFF0-C9829C971A7B}.Debug32|Any CPU.Build.0 = Debug32|Any CPU
+		{7E7658B8-FDE6-4A8B-BFF0-C9829C971A7B}.Debug64|Any CPU.ActiveCfg = Debug64|Any CPU
+		{7E7658B8-FDE6-4A8B-BFF0-C9829C971A7B}.Debug64|Any CPU.Build.0 = Debug64|Any CPU
+		{7E7658B8-FDE6-4A8B-BFF0-C9829C971A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7658B8-FDE6-4A8B-BFF0-C9829C971A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

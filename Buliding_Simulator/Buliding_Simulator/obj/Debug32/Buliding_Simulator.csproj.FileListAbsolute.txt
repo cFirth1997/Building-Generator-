@@ -1,0 +1,5 @@
+D:\CODE3156\urban_simulator\Buliding_Simulator\Buliding_Simulator\bin\Buliding_Simulator.dll
+D:\CODE3156\urban_simulator\Buliding_Simulator\Buliding_Simulator\bin\Buliding_Simulator.pdb
+D:\CODE3156\urban_simulator\Buliding_Simulator\Buliding_Simulator\obj\Debug32\Buliding_Simulator.csprojResolveAssemblyReference.cache
+D:\CODE3156\urban_simulator\Buliding_Simulator\Buliding_Simulator\obj\Debug32\Buliding_Simulator.dll
+D:\CODE3156\urban_simulator\Buliding_Simulator\Buliding_Simulator\obj\Debug32\Buliding_Simulator.pdb
